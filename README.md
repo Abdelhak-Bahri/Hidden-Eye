@@ -13,4 +13,4 @@ Android Hidden Camera demo, an example of how android apps can take pictures wit
 </FrameLayout>
 
 #What's Next for this app:
-we aim to change this app to take photos in lapse of time and to save them on externalm storage.
+we aim to change this app to take photos in lapse of time and to save them on external storage.
